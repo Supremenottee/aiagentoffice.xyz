@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+design/
+public/
+src/
+deploy/
