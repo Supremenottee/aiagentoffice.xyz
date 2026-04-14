@@ -22,10 +22,6 @@ AgentOffice is a multi-agent simulation where each AI agent has its own role, pe
 
 The office is rendered as a pixel-art environment where agents walk around, sit at desks, grab coffee, attend meetings, and use the copier — all driven by a deterministic simulation engine.
 
-<p align="center">
-  <img src="assets/logo.png" width="600" alt="AgentOffice Screenshot">
-</p>
-
 ## The Team
 
 | Agent | Name | Role | Personality |
